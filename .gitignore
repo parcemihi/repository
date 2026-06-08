@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large media files - handled by Git LFS
+*.mp4
+*.mov
+*.mkv
+*.avi
+
+# Temporary files
+*.tmp
+*.log
