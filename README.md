@@ -1,15 +1,6 @@
-# Relics
+# Repository of stuff
 
-A personal archive of sacred texts, prayers, videos, images, and dialogue.
-
-## Featured Relics
-
-### Prayers
-
-- **[Abwoon D'Bashmaya - The Lord's Prayer in Aramaic](videos/Aramaic-Lords-Prayer.md)**  
-  Ancient Aramaic version of the Lord's Prayer.
-
-*(More relics will be added here as you upload them)*
+personal archive
 
 ---
 
